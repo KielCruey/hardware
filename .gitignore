@@ -1,0 +1,4 @@
+# spice ignores
+*.log
+*.net
+*.raw
